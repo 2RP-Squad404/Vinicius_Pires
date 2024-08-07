@@ -19,3 +19,7 @@ echo "Olá, Mundo!"
 echo "Olá, Mundo!"
 
 # Desafios Encontrados: 
+### Entender como os códigos funcionam e diferenciar os tipos de Shell
+
+# Próximos Passos:
+### Pretendo continuar estudando sobre Linux/Shell procurando aprender mais.
