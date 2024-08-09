@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-
-=======
 #### Relatórios
 
 ## Primeira Semana
