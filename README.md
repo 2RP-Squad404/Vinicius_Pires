@@ -10,3 +10,5 @@
 - [09-08-2024](Relatorios/relatorio3_09.08.2024.md)
 
 ## Terceira Semana
+
+- [14-08-2024](Relatorios/relatorio4_14.08.2024.md)
