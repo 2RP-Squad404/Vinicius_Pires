@@ -40,9 +40,9 @@
 #
 
 ## Desafios Encontrados:
-### Entender como funciona os dados e como eles coletam.
+- Entender como funciona os dados e como eles coletam.
 
 ## Próximos Passos:
 
-### Modelagem de Dados
+- Modelagem de Dados
 
