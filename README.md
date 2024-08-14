@@ -1,2 +1,2 @@
-# Vin-cius_Pires
+# Vinicius_Pires
 Anotações referente a trilha de conhecimento Data_Science
