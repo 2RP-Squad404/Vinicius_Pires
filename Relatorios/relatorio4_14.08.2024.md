@@ -1,4 +1,6 @@
-## Nome: Vinícius Pires de Souza Data: 14/08/2024
+### Nome: Vinícius Pires de Souza Data: 14/08/2024
+
+ ## Tópicos Estudados: O que é Big Data Características do Big Data e Exemplos de Uso 
 
 # Análise e Interpretação de Dados em Big Data
 
@@ -34,4 +36,13 @@
 ## Conclusão
 
 ### A gestão eficiente de Big Data envolve lidar com grandes volumes de dados, provenientes de diversas fontes e formatos, com rapidez e precisão. A capacidade de transformar esses dados em informações valiosas é crucial para obter insights significativos e tomar decisões informadas.
+
+#
+
+## Desafios Encontrados:
+### Entender como funciona os dados e como eles coletam.
+
+## Próximos Passos:
+
+### Modelagem de Dados
 
